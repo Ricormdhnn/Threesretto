@@ -172,10 +172,10 @@ body {
 
 /* Hero Section */
 .hero {
-  min-height: 100vh;
+  min-height: 110vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/header-bg-2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -271,7 +271,7 @@ body {
 
 .about .row .about-img img {
   width: 100%;
-  mask-image: url("../img/menu/splash.svg");
+  mask-image: url("../img/menu/splash-1.svg");
   mask-size: 50%;
   mask-repeat: no-repeat;
   mask-position: center;
@@ -305,7 +305,7 @@ body {
   text-align: center;
   max-width: 30rem;
   margin: auto;
-  font-weight: 100;
+  font-weight: 300;
   line-height: 1.6;
 }
 
